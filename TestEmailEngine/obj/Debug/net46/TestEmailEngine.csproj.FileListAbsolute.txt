@@ -1,0 +1,13 @@
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\TestEmailEngine.runtimeconfig.json
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\TestEmailEngine.runtimeconfig.dev.json
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\obj\Debug\net46\TestEmailEngine.csprojResolveAssemblyReference.cache
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\obj\Debug\net46\TestEmailEngine.csproj.CoreCompileInputs.cache
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\obj\Debug\net46\TestEmailEngine.AssemblyInfo.cs
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\TestEmailEngine.exe
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\TestEmailEngine.pdb
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\BouncyCastle.Crypto.dll
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\MimeKit.dll
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\EmailEngine.dll
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\bin\Debug\net46\EmailEngine.pdb
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\obj\Debug\net46\TestEmailEngine.exe
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\TestEmailEngine\obj\Debug\net46\TestEmailEngine.pdb

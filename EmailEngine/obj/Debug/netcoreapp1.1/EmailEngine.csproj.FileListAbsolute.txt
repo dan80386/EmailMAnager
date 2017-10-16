@@ -1,0 +1,5 @@
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\EmailEngine\bin\Debug\netcoreapp1.1\EmailEngine.deps.json
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\EmailEngine\bin\Debug\netcoreapp1.1\EmailEngine.dll
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\EmailEngine\obj\Debug\netcoreapp1.1\EmailEngine.csprojResolveAssemblyReference.cache
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\EmailEngine\obj\Debug\netcoreapp1.1\EmailEngine.csproj.CoreCompileInputs.cache
+c:\users\danha\documents\visual studio 2017\Projects\EmailEngine\EmailEngine\obj\Debug\netcoreapp1.1\EmailEngine.AssemblyInfo.cs
